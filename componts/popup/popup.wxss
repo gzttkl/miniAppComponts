@@ -1,0 +1,6 @@
+:host {
+  color: #f00;
+  font-size: 70rpx;
+  font-weight: bold;
+}
+

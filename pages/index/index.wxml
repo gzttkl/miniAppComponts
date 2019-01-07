@@ -1,0 +1,15 @@
+<num-controller num="{{num}}" bindnumChange="numChange" com-purple="purple" com-orange="orange" bind:myTestEvent="indTestEvent"></num-controller>
+
+
+<custom-ul>
+  <custom-li></custom-li>
+  <custom-li></custom-li>
+</custom-ul>
+
+
+
+
+
+
+
+

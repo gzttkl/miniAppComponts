@@ -1,0 +1,8 @@
+<view>
+  <view>{{testData}}</view>
+  <view class="com-purple" hidden="{{num<1}}" bindtap="sub">-</view>
+  <view class="com-content" hidden="{{num<1}}">{{num}}</view>
+  <view class="com-orange" bindtap="add">+</view>
+  <view bindtap='onComponts'>触发事件</view>
+  <view bindtap="myBehaviorMethod">Behavior数据：{{myBehaviorProperty}}</view>
+</view>

@@ -1,0 +1,4 @@
+<view>
+  <view>custom-ul组件定义的内容：</view>
+  <slot/>
+</view>

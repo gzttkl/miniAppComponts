@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "num-controller":"/componts/popup/popup",
+    "custom-ul":"/componts/custom-ul/custom-ul",
+    "custom-li": "/componts/custom-li/custom-li"
+  }
+}
